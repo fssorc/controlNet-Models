@@ -6,6 +6,8 @@ official
 bdsqlsz: 
 https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/tree/main
 he has tile model for SDXL, but only for anim
+use controlnetLLLite 
+https://github.com/kohya-ss/ControlNet-LLLite-ComfyUI
 
 X-Adapter
 https://github.com/showlab/X-Adapter
