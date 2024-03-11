@@ -12,3 +12,7 @@ https://github.com/kohya-ss/ControlNet-LLLite-ComfyUI
 X-Adapter
 https://github.com/showlab/X-Adapter
 they said user can use SD1.5 model in SDXL through X-Adapter. but hasn't been release, yet.
+
+instantid-faceswap-comfyUI
+https://github.com/nosiu/comfyui-instantId-faceswap
+
